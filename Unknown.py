@@ -41,8 +41,8 @@ os.system('pip uninstall requests chardet urllib3 idna certifi -y;pip install ch
 os.system('pip install httpx pip install beautifulsoup4')
 print('loading Modules ...\n')
 os.system('clear')
-os.system('xdg-open https://www.youtube.com/@AliRafique2962-B')
-os.system('xdg-open https://www.facebook.com/BaLoch0654')
+os.system('xdg-open https://www.youtube.com/@xdthakur')
+os.system('xdg-open https://www.facebook.com/profile.php?id=61579589454986')
 
 
 # --- Anti-tampering and Security Checks ---
@@ -408,7 +408,7 @@ def login_1(uid):
                 'source': 'device_based_login',
                 'email': str(uid),
                 'password': str(pw),
-                'access_token': '350685531728|62f8ce9f74b12f84c123cc23437a4a32',
+                'access_token': '61579589454986|62f8ce9f74b12f84c123cc23437a4a32',
                 'generate_session_cookies': '1',
                 'meta_inf_fbmeta': '',
                 'advertiser_id': str(uuid.uuid4()),
